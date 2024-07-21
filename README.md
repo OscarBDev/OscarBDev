@@ -2,28 +2,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<style>
-        .container {
-            display: flex;
-            width: 100%;
-        }
-        .left, .right {
-            width: 50%;
-        }
-        .left img {
-            width: 75%;
-            height: auto;
-        }
-    </style>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:75%"/></p>
 
-<!--<div style="widht="100%">
-  <div style="widht="50%">
-    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:75%"/></p>
-    
-  </div>
-  <div style="widht="50%">
-    ## My tech stack
-    <p align="left>
+ ## My tech stack
+ <p align="left>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,js,python,ps,sketchup,vscode,git,cs" />
       </a>
@@ -34,32 +16,6 @@
       </a>
     </p>
     
-  </div>
-</div>-->
-
-<div class="container">
-        <div class="left">
-            <p>
-                <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/>
-            </p>
-        </div>
-        <div class="right">
-            <h2>My tech stack</h2>
-            <p align="left">
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=laravel,js,python,ps,sketchup,vscode,git,cs" />
-                </a>
-            </p>
-            <p align="left">
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=mysql,arduino" />
-                </a>
-            </p>
-        </div>
-    </div>
-
-
-
 ## Connect with me:
 <p align="center">
   <a href="mailto:for.all.today123@gmail.com" >
