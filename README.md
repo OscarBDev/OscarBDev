@@ -2,8 +2,26 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+  <style>
+        .responsive-img {
+            max-width: 100%;
+            height: auto;
+            width: auto;
+        }
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:100%"/></p>
+        @media (max-width: 768px) {
+            .responsive-img {
+                max-width: 50%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .responsive-img {
+                max-width: 30%;
+            }
+        }
+    </style>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" class="resposive-img"</p>
 
 ## My tech stack
 
