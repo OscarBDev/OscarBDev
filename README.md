@@ -2,9 +2,10 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:75%"/></p>
 
  ## My tech stack
- <p align="left>
+ <p align="left">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=laravel,js,python,ps,sketchup,vscode,git,cs" />
       </a>
@@ -15,7 +16,7 @@
       </a>
     </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:75%"/></p>
+
 
     
 ## Connect with me:
