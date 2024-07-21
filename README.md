@@ -11,6 +11,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,js,python,ps,sketchup,vscode,git,cs" />
   </a>
+</p>
+<p align="right>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,arduino" />
   </a>
