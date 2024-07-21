@@ -19,7 +19,8 @@
 
 
     
-## Connect with me:
+### Connect with me:
+-----
 <p align="center">
   <a href="mailto:for.all.today123@gmail.com" >
     <img align="center" alt="OscarBDev | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
