@@ -7,7 +7,7 @@
 
 ## My tech stack
 
-<p align="center>
+<p align="right>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,js,python,ps,sketchup,vscode,git,cs" />
   </a>
