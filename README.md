@@ -15,14 +15,11 @@
         <img src="https://skillicons.dev/icons?i=mysql,arduino" />
       </a>
     </p>
-
-
-
-    
+ 
 ### Connect with me:
 -----
 <p align="center">
-  <a href="mailto:for.all.today123@gmail.com" >
+  <a href="mailto:for.all.today123@gmail.com?subject=Hola%20Oscar" >
     <img align="center" alt="OscarBDev | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
