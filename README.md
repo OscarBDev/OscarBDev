@@ -2,7 +2,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:75%"/></p>
 
  ## My tech stack
  <p align="left>
@@ -15,6 +14,9 @@
         <img src="https://skillicons.dev/icons?i=mysql,arduino" />
       </a>
     </p>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width:75%"/></p>
+
     
 ## Connect with me:
 <p align="center">
