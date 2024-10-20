@@ -12,7 +12,7 @@
     </p>
     <p align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,arduino" />
+        <img src="https://skillicons.dev/icons?i=mysql,arduino,django,flask" />
       </a>
     </p>
  
